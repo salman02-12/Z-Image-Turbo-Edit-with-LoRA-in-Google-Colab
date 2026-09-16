@@ -2,7 +2,7 @@
 
 This repository contains an easy-to-use Google Colab notebook designed for **Z-Image-Turbo Edit**. Powered by ComfyUI, this tool allows you to upload an existing image and use AI to edit, modify, or reimagine it using lightning-fast GGUF models and custom LoRAs.
 
-**🎥 Watch the Tutorial:** [Edit Images Using AI for FREE | Image to Image AI | Setup Z Image Edit with LoRA in Google Colab](https://www.youtube.com/watch?v=766BBB-sqvg)
+**🎥 Watch the Tutorial:** [Setup Z Image Edit with LoRA in Google Colab](https://www.youtube.com/watch?v=766BBB-sqvg)
 
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1nKkpuLbq_hjOH3_LkVO8UvR-iBtnbvwV?usp=sharing)
 
