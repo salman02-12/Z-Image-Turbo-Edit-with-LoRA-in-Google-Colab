@@ -8,6 +8,8 @@ This repository contains an easy-to-use Google Colab notebook designed for **Z-I
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salman02-12/Z-Image-Turbo-Edit-with-LoRA-in-Google-Colab/blob/main/Z_Image_Edit_CoinNoin.ipynb)
 
+[![Get Pro](https://img.shields.io/badge/Get%20Pro-PayPal-blue?logo=paypal)](https://www.paypal.com/ncp/payment/T73B6QU39FVHE)
+
 ---
 <img src="./thumbnail.png" width="100%" />
 
